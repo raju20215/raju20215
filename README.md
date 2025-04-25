@@ -29,7 +29,7 @@ I'm a Computer Science Engineering graduate from **SRM University** with a CGPA 
 - **Languages**: Python, SQL
 - **Analytics & Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Databases**: MySQL, Oracle SQL
-- **BI Tools**: Power BI (Learning)
+- **BI Tools**: Power BI 
 
 ---
 
