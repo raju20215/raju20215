@@ -20,7 +20,7 @@ I'm a Computer Science Engineering graduate from **SRM University** with a CGPA 
 - ✅ Hands-on experience with:
   - **Python, SQL (MySQL & Oracle)**
   - **Data analysis, data cleaning**, and **insight generation**
-  - Real-time projects including a **Multitasking Trolley for Visually Impaired Individuals**
+
 
 ---
 
