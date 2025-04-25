@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Uppu Palakonda Raju
 
-<!--
-**raju20215/raju20215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | 🐍 Python Enthusiast | 📊 Data-Driven Problem Solver
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering graduate from **SRM University** with a CGPA of **9.23**, and I’m passionate about transforming data into actionable insights. My journey began with **Python** and **SQL**, and over time, I've built a strong foundation in **data analytics**, **database design**, and **data visualization**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm Currently Working On
+
+- Deepening my knowledge in **data analysis**, **SQL optimization**, and **data visualization**
+- Practicing with real-world datasets using **Pandas**, **Power BI**, and **Seaborn**
+- Exploring advanced **Python** and **data querying techniques**
+
+---
+
+## 💼 Experience & Training
+
+- ✅ Trained at **QSpiders, Hyderabad** in Software Development and Databases  
+- ✅ Hands-on experience with:
+  - **Python, SQL (MySQL & Oracle)**
+  - **Data analysis, data cleaning**, and **insight generation**
+  - Real-time projects including a **Multitasking Trolley for Visually Impaired Individuals**
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Languages**: Python, SQL
+- **Analytics & Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Databases**: MySQL, Oracle SQL
+- **BI Tools**: Power BI (Learning)
+
+---
+
+## 🤝 I'm Looking For
+
+- Internship or full-time roles in **Data Analytics / Business Intelligence**
+- Opportunities to apply my skills in real-world **data-driven projects**
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: **palakondarajuuppu@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [Medium](https://medium.com/@your-link) | [HackerRank](https://www.hackerrank.com/your-link)
+
+---
+
+> _"The goal is to turn data into information, and information into insight." – Carly Fiorina_
+
