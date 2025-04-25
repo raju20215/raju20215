@@ -16,7 +16,7 @@ I'm a Computer Science Engineering graduate from **SRM University** with a CGPA 
 
 ## 💼 Experience & Training
 
-- ✅ Trained at **QSpiders, Hyderabad** in Software Development and Databases  
+- ✅ Trained at **Innomatics Research Lab, Hyderabad** in Software Development and Databases  
 - ✅ Hands-on experience with:
   - **Python, SQL (MySQL & Oracle)**
   - **Data analysis, data cleaning**, and **insight generation**
