@@ -1,51 +1,51 @@
 # 👋 Hi, I'm Uppu Palakonda Raju
 
-🎯 **Aspiring Data Analyst** | 🐍 Python Enthusiast | 📊 Data-Driven Problem Solver
+🎯 **Aspiring Data Scientist** | 🐍 Python & ML Enthusiast | 📈 Insight-Driven Innovator
 
-I'm a Computer Science Engineering graduate from **SRM University** with a CGPA of **9.23**, and I’m passionate about transforming data into actionable insights. My journey began with **Python** and **SQL**, and over time, I've built a strong foundation in **data analytics**, **database design**, and **data visualization**.
+I'm a **Computer Science Engineering graduate** from **SRM University** with a CGPA of **9.23**, passionate about solving real-world problems using data. My journey started with **Python** and **SQL**, and has evolved into a strong foundation in **data science**, **machine learning**, and **statistical analysis**.
 
 ---
 
 ## 🌱 What I'm Currently Working On
 
-- Deepening my knowledge in **data analysis**, **SQL optimization**, and **data visualization**
-- Practicing with real-world datasets using **Pandas**, **Power BI**, and **Seaborn**
-- Exploring advanced **Python** and **data querying techniques**
+- Building and deploying **machine learning models** on real-world datasets  
+- Enhancing skills in **exploratory data analysis**, **model evaluation**, and **feature engineering**  
+- Learning **deep learning**, **NLP**, and **Generative AI** tools  
+- Working with **Pandas, Scikit-learn, Seaborn**, and **Power BI** for impactful visualizations  
 
 ---
 
 ## 💼 Experience & Training
 
-- ✅ Trained at **Innomatics Research Lab, Hyderabad** in Software Development and Databases  
-- ✅ Hands-on experience with:
-  - **Python, SQL (MySQL & Oracle)**
-  - **Data analysis, data cleaning**, and **insight generation**
-
+- ✅ Trained at **Innomatics Research Lab, Hyderabad** in **Software Development and Databases**  
+- ✅ Completed multiple hands-on projects in:
+  - **EDA, predictive modeling, and data storytelling**
+  - **Python, SQL (MySQL & Oracle), Scikit-learn, and Matplotlib**  
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Languages**: Python, SQL
-- **Analytics & Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **Databases**: MySQL, Oracle SQL
-- **BI Tools**: Power BI 
+- **Languages**: Python, SQL  
+- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Databases**: MySQL, Oracle SQL  
+- **BI & Visualization**: Power BI  
+- **In Progress**: TensorFlow, OpenCV, NLTK, GenAI tools
 
 ---
 
 ## 🤝 I'm Looking For
 
-- Internship or full-time roles in **Data Analytics / Business Intelligence**
-- Opportunities to apply my skills in real-world **data-driven projects**
+- Internship or entry-level roles in **Data Science / Machine Learning / AI**  
+- Collaborative opportunities to work on **real-world data science problems**
 
 ---
 
 ## 📫 Let's Connect!
 
-- 📧 Email: **palakondarajuuppu@gmail.com**
+- 📧 Email: **palakondarajuuppu@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [Medium](https://medium.com/@your-link) | [HackerRank](https://www.hackerrank.com/your-link)
 
 ---
 
-> _"The goal is to turn data into information, and information into insight." – Carly Fiorina_
-
+> _"Without data, you're just another person with an opinion." – W. Edwards Deming_
