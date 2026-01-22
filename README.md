@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=160&section=header&text=Yadagiri&fontSize=40&fontAlignY=32&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=160&section=header&text=U P RAJU&fontSize=40&fontAlignY=32&animation=fadeIn)
 
 <h2 align="center">
   <a href="https://github.com/raju20215">
