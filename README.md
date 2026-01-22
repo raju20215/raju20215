@@ -137,12 +137,4 @@ I work across the complete ML lifecycle — **data collection → EDA → modeli
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer)
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=160&section=header&text=Yadagiri&fontSize=40&fontAlignY=32&animation=fadeIn)
 
-<h2 align="center">
-  <a href="https://github.com/raju20215">
-    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=900&height=60&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+LLM+Applications;Data+Analytics+%7C+FastAPI+%7C+Streamlit;Turning+Data+Into+Actionable+Intelligence" />
-  </a>
-</h2>
-
----
