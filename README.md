@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech (Computer Science) – 2025 Graduate**  
+🎓 **B.Tech (Computer Science) – 2024 Graduate**  
 I am an AI & Data enthusiast passionate about building **production-ready AI systems** that solve real-world problems.
 
 I specialize in:
